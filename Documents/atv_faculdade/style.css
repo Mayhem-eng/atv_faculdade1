@@ -1,0 +1,36 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 300px;
+
+    
+}
+
+.h4-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+p{
+    margin-top: -14px;
+}
+
+.imagem{
+    max-width: 200px;
+    margin-top: 5px;
+}
+
+.texto_fora-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.texto_fora{
+    margin: 10px 20px;
+}
